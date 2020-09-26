@@ -6,4 +6,4 @@
 Simple JavaScript animation, made to play with Canvas.
 
 ###### PL
-Prosta animacja w JavaScript, stworzona do zabawy z Canvasem.
+Prosta animacja w JavaScript, stworzona dla zabawy z Canvasem.
